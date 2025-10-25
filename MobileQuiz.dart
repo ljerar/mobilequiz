@@ -26,7 +26,7 @@ class QuizTopic {
   });
 }
 
-// Lista de tópicos com 10 perguntas para cada.
+// Lista de tópicos com 10 perguntas pra cada.
 
 final List<QuizTopic> mockTopics = [
   // Tópico 1: Menstruação
